@@ -1,0 +1,21 @@
+{
+  "env": {
+    "modules": {
+      "presets": [
+        ["env", {
+          "modules": false
+        }]
+      ]
+    },
+    "es5": {
+      "presets": [
+        "env"
+      ]
+    },
+    "test": {
+      "presets": [
+        "env"
+      ]
+    }
+  }
+}
